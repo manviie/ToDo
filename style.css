@@ -1,0 +1,7 @@
+*{
+    list-style-type: none;
+}
+.close{
+    display: inline;
+    margin-left: 40px;
+}  
